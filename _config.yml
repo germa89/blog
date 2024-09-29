@@ -1,5 +1,5 @@
 # Site settings
-title: I'm Ger
+title: I'm Ger.dev
 description: 'Thoughts from a wanna-be-developer' # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
@@ -27,6 +27,8 @@ highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code h
 author: Ger # add your name
 author-pic: me.jpeg
 about-author: Civil engineer made himself software developer
+show-cv-page-links: true
+author-cv-page: cv.imger.dev
 
 # Contact links
 email: germanmartinezayuso@gmail.com # Add your Email address

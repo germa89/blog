@@ -2,7 +2,7 @@
 layout: slim
 read_time: true
 show_date: true
-title:  Cena de Navidad
+title:  Comida de Navidad
 date:   2023-10-29 13:32:20 -0600
 img: assets/others/christmas.gif
 tags: [christmas, launch]

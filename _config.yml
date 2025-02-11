@@ -33,7 +33,7 @@ author-cv-page: cv.imger.dev
 # Contact links
 email: germanmartinezayuso@gmail.com # Add your Email address
 phone: # Add your Phone number
-website: https://amaynez.github.io # Add your website
+website: https://github.com/germa89 # Add your website
 linkedin: gmartinezayuso # Add your Linkedin handle
 github: germa89 # Add your Github handle
 twitter: '@germa89' # Add your Twitter handle
@@ -41,11 +41,11 @@ twitter: '@germa89' # Add your Twitter handle
 # stackoverflow: stackoverflow # Add your stackoverflow account
 
 # Newsletter
-mailchimp: "https://github.us1.list-manage.com/subscribe/post?u=8ece198b3eb260e6838461a60&amp;id=397d90b5f4"
+# mailchimp: "https://github.us1.list-manage.com/subscribe/post?u=8ece198b3eb260e6838461a60&amp;id=397d90b5f4"
 
 # Tracker
-analytics: G-R8SZS2YBZK
-fbadmin: ar.maybach
+# analytics: G-R8SZS2YBZK
+# fbadmin: ar.maybach
 
 # Paginate
 paginate: 6
